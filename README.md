@@ -4,27 +4,27 @@
 
 - This project was built using a free Bootstrap website template, which I modified and personalized for the occasion.
 
-# Technologies Used:
+## Technologies Used:
 - HTML
 - CSS
 - Bootstrap
 - GitHub Pages 
 
-# Features
+## Features
 - Responsive design for desktop and mobile devices
 - Personalized photos and messages
 - Customized styling and layout
 - Interactive elements 
 
-# Development:
+## Development:
 - I started with a free Bootstrap template and customized the HTML, CSS, and website content to create a personalized experience.
 
 - This project gave me hands-on experience working with existing front-end code, modifying website layouts, and deploying a static website using GitHub Pages.
 
-# Live Website:
+## Live Website:
 
 
-# Credits: 
+## Credits: 
 - Original Template: [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 - Template Author and License: [BootstrapMade.com](https://bootstrapmade.com/license/)
 - Customized and deployed by: Raymond A. Funes
