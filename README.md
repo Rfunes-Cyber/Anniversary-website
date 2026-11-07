@@ -1,4 +1,5 @@
-## Anniversary Website
+# Anniversary Website
+## Overview
 - A personal anniversary website created as a special gift for my girlfriend. The website features a customized design, photos, and personal messages to celebrate our relationship.
 
 - This project was built using a free Bootstrap website template, which I modified and personalized for the occasion.
@@ -24,5 +25,6 @@
 
 
 # Credits: 
-- Original website template:
+- Original Template: [iPortfolio](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
+- Template Author and License: [BootstrapMade.com](https://bootstrapmade.com/license/)
 - Customized and deployed by: Raymond A. Funes
